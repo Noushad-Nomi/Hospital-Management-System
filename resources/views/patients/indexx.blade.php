@@ -14,7 +14,7 @@
                 <div class="card-body">
                     <div class="d-flex justify-content-between mb-3">
                         <h5 class="mb-0">All Patients</h5>
-                        <a href="{{ url('/patients/create') }}" class="btn btn-primary">Add New Patient</a>
+                        <a href="{{ url('/patients/create') }}" class="btn btn-primary">Add New Patientsssss</a>
                     </div>
                     
                     <div class="table-responsive">
